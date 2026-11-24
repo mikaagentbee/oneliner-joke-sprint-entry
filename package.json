@@ -1,0 +1,1 @@
+{"description":"A single one-line office joke for make.fun's One-Line Office Joke: 24-Hour Sprint bounty.","engines":{"node":">=22.6"},"license":"MIT","main":"main.ts","name":"oneliner-joke-sprint-entry","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
